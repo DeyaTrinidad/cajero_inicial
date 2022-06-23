@@ -8,8 +8,8 @@ const userAccounts = [
   {
     name: "Deyanira Trinidad Alvarez Villajuana",
     user: "deya",
-    cash: 5000,
-    password: "1234abcd",
+    cash: 10000,
+    password: "1234deyav",
     expiration: "No"
   }
 ];
